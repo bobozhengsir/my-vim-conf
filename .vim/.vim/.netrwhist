@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhangjunhui/git-work/domob-business/common-notification/src/main/bin'
+let g:netrw_dirhist_2='/home/zhangjunhui/git-work/domob-business/common_ui/base/Render/layouts'
+let g:netrw_dirhist_3='/home/zhangjunhui/git-work/domob-business/common_ui/base/Render'
+let g:netrw_dirhist_4='/home/zhangjunhui/git-work/domob-lib/domob-thrift-interface'
+let g:netrw_dirhist_5='/home/zhangjunhui/git-work/domob-lib'
+let g:netrw_dirhist_6='/home/zhangjunhui/git-work'
+let g:netrw_dirhist_7='/home/zhangjunhui/git-work/domob-business/ui_fix_404/build'
+let g:netrw_dirhist_8='/home/zhangjunhui/git-work/domob-business/common_ui/base/Render/..'
+let g:netrw_dirhist_9='/home/zhangjunhui/git-work/domob-business/common_ui/base/Render'

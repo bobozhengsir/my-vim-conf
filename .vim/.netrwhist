@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zhaoyikang/htdocs/mis'
+let g:netrw_dirhist_2='/home/zhaoyikang/htdocs/mis-atdmanagement/protected/models'
+let g:netrw_dirhist_3='/home/zhaoyikang/htdocs/mis-atdmanagement/protected/controllers'
+let g:netrw_dirhist_4='/usr/local/domob/prog.d'
+let g:netrw_dirhist_5='/usr/local/domob'
+let g:netrw_dirhist_6='/usr/local/domob/prog.d/mis-mediacrm-1.0.0/protected/controllers'
+let g:netrw_dirhist_7='/home/zhaoyikang/htdocs/mis-atdmanagement/protected/models'
+let g:netrw_dirhist_8='/usr/local/domob/prog.d/mis-adinfo-1.1.1'
+let g:netrw_dirhist_9='/home/zhengjianbo/htdoc/mis/adinfo'
